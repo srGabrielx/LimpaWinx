@@ -50,6 +50,7 @@ Utiliza um **motor semântico baseado em regras, sinônimos, lematização e tol
 
 ### Modo Portátil (Via Terminal)
 ```powershell
+# Caminho Exemplo 
 cd "d:\Cursos\Python\prog\smart-pc-cleaner"
 
 # Modo CLI Interativo (com Auto-completar inteligente de IA Semântica)
